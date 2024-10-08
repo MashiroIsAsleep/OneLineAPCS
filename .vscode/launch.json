@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CompareDoubles",
+            "request": "launch",
+            "mainClass": "CompareDoubles",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "DateCheck",
+            "request": "launch",
+            "mainClass": "DateCheck",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "GCF",
+            "request": "launch",
+            "mainClass": "GCF",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Max",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "MonteCarlo",
+            "request": "launch",
+            "mainClass": "MonteCarlo",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstSort",
+            "request": "launch",
+            "mainClass": "MyFirstSort",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumbers",
+            "request": "launch",
+            "mainClass": "PerfectNumbers",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactorization",
+            "request": "launch",
+            "mainClass": "PrimeFactorization",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "RandomCard",
+            "request": "launch",
+            "mainClass": "RandomCard",
+            "projectName": "OneLineAPCS_627d9a2b"
+        },
+        {
+            "type": "java",
+            "name": "Totient",
+            "request": "launch",
+            "mainClass": "Totient",
+            "projectName": "OneLineAPCS_627d9a2b"
+        }
+    ]
+}
